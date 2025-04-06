@@ -21,3 +21,7 @@
 # 参考资料
 * **[phyphox](https://phyphox.org/)** 可进行数据采集和可视化
 * **[DylanStepCount](https://github.com/linglongxin24/DylanStepCount)** 作为计步器算法参考
+
+---
+
+最后，如果该项目对你有帮助，给我一个⭐吧 `:)`
